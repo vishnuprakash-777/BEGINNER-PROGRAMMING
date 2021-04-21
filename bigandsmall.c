@@ -24,7 +24,7 @@ void main()
       }
     }
     printf("The largest value = %d \n",max);
-    printf("The smalllest value = %d \n",min);
+    printf("The smallest value = %d \n",min);
   }
   else
   {
