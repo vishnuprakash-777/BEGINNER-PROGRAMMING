@@ -4,7 +4,7 @@ void main()
   int a[100],n,i,min,max;
   printf("Enter the number of values:");
   scanf("%d",&n);
-  if(n<=0)
+  if(n<=100)
   {
     printf("Enter the values:");
     for(i=0;i<n;i++)
