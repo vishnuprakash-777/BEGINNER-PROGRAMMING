@@ -5,6 +5,6 @@ void main()
   printf("\n**********\n");
   printf("enter the  numbers: ");
   scanf("%f%f",&a,&b);
-  s=a/b;
+  s=a+b;
   printf("sum of  %f and %f is %f\n",a,b,s);
 }
