@@ -5,8 +5,8 @@ void main()
   printf("\n**********\n");
   printf("enter the  first number\n\n");
   scanf("%d",&a);
-  printf("enter the  first number\n");
+  printf("enter the  second number\n");
   scanf("%d",&b);
-  s=a*a*a;
+  s=a*b;
   printf("multiplication of  %d and %d is %d\n",a,b,s);
 }
