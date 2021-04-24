@@ -1,3 +1,4 @@
+//Write a program to accept n numbers and separate the odd and even numbers
 #include<stdio.h>
 int main()
 {
