@@ -1,3 +1,4 @@
+//Write a program to accept n numbers and find the smallest and biggest among them
 #include<stdio.h>
 void main()
 {
