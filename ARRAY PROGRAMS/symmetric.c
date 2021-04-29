@@ -1,4 +1,4 @@
-//Symmetric matrix
+// To check wheather the matrix is symmetric or not?
 #include<stdio.h>
 int main()
 {
