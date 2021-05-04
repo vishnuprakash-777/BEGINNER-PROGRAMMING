@@ -1,4 +1,4 @@
-//Program to check wheather the word is palindrome or not.Also number of alphabets in the word.
+//Program to check wheather the word is palindrome or not.Also find number of alphabets in the word.
 #include<stdio.h>
 #include<string.h>
 int main()
