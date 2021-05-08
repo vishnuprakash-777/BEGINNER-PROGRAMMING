@@ -1,6 +1,7 @@
-//Program to check wheather the word is palindrome or not.Also find number of alphabets in the word.
+//Program to check wheather the word is palindrome or not.Also number of alphabets in the word.
 #include<stdio.h>
 #include<string.h>
+#include<ctype.h>
 int main()
 {
   char a[20];
@@ -9,6 +10,10 @@ int main()
   scanf("%s",a);
   count=strlen(a);
   printf("No of alphabets = %d\n",count);
+  for(i=0;i<count;i++)
+  {
+    a[i]=toupper(a[i]);
+  }
   for(i=0;i<=count/2;i++)
   {
     if(a[i]!=a[count-(i+1)])
