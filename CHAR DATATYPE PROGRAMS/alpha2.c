@@ -1,4 +1,4 @@
-//Program to print a word such that if we inupt (abc' it gives 'cde'/'xyz'  it gives 'zab'.
+//Program to print a word such that if we inupt abc' it gives 'cde'/'xyz'  it gives 'zab'.
 #include<stdio.h>
 #include<string.h>
 int main()
