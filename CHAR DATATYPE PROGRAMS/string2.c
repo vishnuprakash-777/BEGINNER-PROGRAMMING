@@ -1,4 +1,4 @@
-//Given your username is "rahulk" & passward is "rak123". Write a program if the username and password are correct it prints "welcome" else it prints "access denied".
+//Given your username is "rahulk" & password is "rak123". Write a program if the username and password are correct it prints "welcome" else it prints "access denied".
 #include<stdio.h>
 #include<string.h>
 int main()
