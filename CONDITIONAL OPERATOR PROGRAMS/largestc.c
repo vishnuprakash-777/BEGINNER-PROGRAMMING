@@ -6,5 +6,5 @@ int main()
   printf("Enter the three numbers:");
   scanf("%f%f%f",&a,&b,&c);
   x=(a>b)?((a>c)?a:c):((b>c)?b:c);
-  printf("The largest number among th three numbers is %f\n",x);
+  printf("The largest number among three numbers is %f\n",x);
 }
