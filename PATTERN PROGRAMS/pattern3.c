@@ -1,8 +1,8 @@
 /*Write programs using nested loops to produce the following output:
-      &
-    &	 	&
-  &	 	 	 	&
-&	&	&	&	&	&	&
+                  &                 
+            &           &
+      &                       &
+&     &     &     &     &     &     &
 */       
 #include<stdio.h>
 int main()
