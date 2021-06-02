@@ -1,6 +1,5 @@
 //Write  a program that interchanges the odd and even numbers of an array.
 #include<stdio.h>
-#include<limits.h>
 int main()
 {
   int a[10000],n,i,c;
