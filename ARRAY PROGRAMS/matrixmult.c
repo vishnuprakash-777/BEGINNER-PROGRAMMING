@@ -67,6 +67,6 @@ int main()
   }
   else
   {
-    printf("Please enter the order less than or equal to 10 / The column of first matrix and the row of second matrix should be equal \n");
+    printf("Please enter the order less than or equal to 10 OR The number of columns of first matrix and the number of rows of second matrix should be equal \n");
   }
 }
